@@ -5,6 +5,6 @@ Efficient Detection: Quickly and accurately identifies phishing attempts to safe
 
 Technologies Used:
 Python for model development and implementation.
-Machine Learning Libraries: scikit-learn, pandas, NumPy
-Streamlit for web application development 
-CountVectorizer for text data conversion 
+Machine Learning Libraries: scikit-learn, pandas, NumPy,
+Streamlit for web application development,
+CountVectorizer for text data conversion.
